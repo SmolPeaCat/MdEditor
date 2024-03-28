@@ -2,7 +2,7 @@
 using Avalonia.ReactiveUI;
 using System;
 
-namespace SimpleMardownEditor;
+namespace SimpleMarkdownEditor;
 
 sealed class Program
 {

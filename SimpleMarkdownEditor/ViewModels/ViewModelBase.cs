@@ -1,6 +1,6 @@
 ﻿using ReactiveUI;
 
-namespace SimpleMardownEditor.ViewModels;
+namespace SimpleMarkdownEditor.ViewModels;
 
 public class ViewModelBase : ReactiveObject
 {

@@ -1,10 +1,10 @@
 using Avalonia;
 using Avalonia.Controls.ApplicationLifetimes;
 using Avalonia.Markup.Xaml;
-using SimpleMardownEditor.ViewModels;
-using SimpleMardownEditor.Views;
+using SimpleMarkdownEditor.ViewModels;
+using SimpleMarkdownEditor.Views;
 
-namespace SimpleMardownEditor;
+namespace SimpleMarkdownEditor;
 
 public partial class App : Application
 {

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="SimpleMardownEditor/App.axaml" value="SimpleMardownEditor/SimpleMardownEditor.csproj" />
+        <entry key="SimpleMardownEditor/Views/MainView.axaml" value="SimpleMardownEditor/SimpleMardownEditor.csproj" />
+        <entry key="SimpleMardownEditor/Views/MainWindow.axaml" value="SimpleMardownEditor/SimpleMardownEditor.csproj" />
+        <entry key="SimpleMarkdownEditor/App.axaml" value="SimpleMarkdownEditor/SimpleMarkdownEditor.csproj" />
+        <entry key="SimpleMarkdownEditor/Views/MainView.axaml" value="SimpleMarkdownEditor/SimpleMarkdownEditor.csproj" />
+        <entry key="SimpleMarkdownEditor/Views/MainWindow.axaml" value="SimpleMarkdownEditor/SimpleMarkdownEditor.csproj" />
+      </map>
+    </option>
+  </component>
+</project>

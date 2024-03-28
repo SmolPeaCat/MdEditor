@@ -1,6 +1,6 @@
 using Avalonia.Controls;
 
-namespace SimpleMardownEditor.Views;
+namespace SimpleMarkdownEditor.Views;
 
 public partial class MainWindow : Window
 {

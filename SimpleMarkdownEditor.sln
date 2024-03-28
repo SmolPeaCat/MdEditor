@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMardownEditor", "SimpleMardownEditor\SimpleMardownEditor.csproj", "{A3F4697D-546D-4EEA-9E95-BEF62904DCD8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMarkdownEditor", "SimpleMarkdownEditor\SimpleMarkdownEditor.csproj", "{A3F4697D-546D-4EEA-9E95-BEF62904DCD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

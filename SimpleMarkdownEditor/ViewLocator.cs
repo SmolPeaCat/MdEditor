@@ -1,9 +1,9 @@
 using System;
 using Avalonia.Controls;
 using Avalonia.Controls.Templates;
-using SimpleMardownEditor.ViewModels;
+using SimpleMarkdownEditor.ViewModels;
 
-namespace SimpleMardownEditor;
+namespace SimpleMarkdownEditor;
 
 public class ViewLocator : IDataTemplate
 {
