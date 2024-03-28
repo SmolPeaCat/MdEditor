@@ -1,25 +1,22 @@
-using System;
-using System.ComponentModel;
-using Avalonia.Controls;
-using Avalonia.Controls.Primitives;
 using CommunityToolkit.Mvvm.ComponentModel;
 using ReactiveUI;
-using SimpleMarkdownEditor.Views;
 
 namespace SimpleMarkdownEditor.ViewModels;
 
 public class MarkdownEditorViewModel: ViewModelBase
 {
+       // I'm using MainWindowViewModel as an example
        private ObservableObject _mdParsing;
        
-       private MarkdownParsingViewModel ParsingViewModel { get; set; }
+       private MarkdownParsingViewModel ParsingViewModel { get; }
 
        public MarkdownEditorViewModel()
        {
               ParsingViewModel = new MarkdownParsingViewModel();
               _mdParsing = ParsingViewModel;
        }
-
+       
+       // Makes the mdParsing available in my view :D
        public MarkdownParsingViewModel MdParsing
        {
               get => (MarkdownParsingViewModel)_mdParsing;
