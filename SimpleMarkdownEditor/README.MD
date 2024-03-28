@@ -2,7 +2,10 @@
 
 ## Current look
 
+### The app
+![image](./Assets/MainView.png)
 
+### Demo
 
 
 
