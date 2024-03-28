@@ -8,6 +8,5 @@
         Content="{Binding ContentViewModel}"
         x:DataType="vm:MainWindowViewModel"
         Icon="/Assets/avalonia-logo.ico"
-        Title="SimpleMarkdownEditor"
-        >
+        Title="SimpleMarkdownEditor">
 </Window>

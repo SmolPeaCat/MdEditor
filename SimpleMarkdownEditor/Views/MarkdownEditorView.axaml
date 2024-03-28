@@ -20,7 +20,7 @@
             </ToggleSwitch>
         </Grid>
         <!-- Preview and edit -->
-        <Grid Grid.Row="1" ColumnDefinitions="*,*">
+        <Grid Grid.Row="1" ColumnDefinitions="*,*" DataContext="{Binding MdParsing}">
             <Border 
                 Grid.Column="0" 
                 Background="LightBlue"

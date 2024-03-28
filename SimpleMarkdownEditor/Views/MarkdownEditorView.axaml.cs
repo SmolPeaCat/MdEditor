@@ -10,4 +10,5 @@ public partial class MarkdownEditorView : UserControl
     {
         InitializeComponent();
     }
+
 }
