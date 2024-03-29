@@ -1,3 +1,4 @@
+[![Build and Test](https://github.com/SmolPeaCat/MdEditor/actions/workflows/main.yml/badge.svg)](https://github.com/SmolPeaCat/MdEditor/actions/workflows/main.yml)
 # Simple Markdown Text editor made with Avalonia !!
 
 ## Current look
