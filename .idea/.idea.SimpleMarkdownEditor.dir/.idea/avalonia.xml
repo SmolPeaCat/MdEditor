@@ -3,6 +3,7 @@
   <component name="AvaloniaProject">
     <option name="projectPerEditor">
       <map>
+        <entry key="App.axaml" value="SimpleMarkdownEditor.csproj" />
         <entry key="Views/MainWindow.axaml" value="SimpleMarkdownEditor.csproj" />
         <entry key="Views/MarkdownEditorView.axaml" value="SimpleMarkdownEditor.csproj" />
       </map>
